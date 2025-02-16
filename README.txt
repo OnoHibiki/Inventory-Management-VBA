@@ -1,5 +1,7 @@
 README
 
+※マクロの有効化が必要です！
+
 ◇Excelとaccessを用いた在庫管理アプリです。
 （office365使用　accsesは）
 
